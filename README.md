@@ -1,4 +1,4 @@
-<h2 align="left">Hi there👋! My name is Sayed Raees and I'm a Front-End Developer, from India </h2>
+<h2 align="left">Hi there👋! My name is Sayed Raees and I'm a Data Analyst, from India </h2>
 
 ###
 
