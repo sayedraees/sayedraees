@@ -39,7 +39,7 @@
 
 
 
-- 👯 I’m looking to collaborate on React Projects
+- 👯 I’m looking to collaborate on Data Engineering Projects
 - 💬 Ask me about Projects
 - 📫 How to reach me: sayedraeespeer@gmail.com
 - ⚡ Fun fact: Updating 
